@@ -1,0 +1,7 @@
+C:\Users\olive\source\repos\1208ClaseTeorica\bin\Debug\1208ClaseTeorica.exe.config
+C:\Users\olive\source\repos\1208ClaseTeorica\bin\Debug\1208ClaseTeorica.exe
+C:\Users\olive\source\repos\1208ClaseTeorica\bin\Debug\1208ClaseTeorica.pdb
+C:\Users\olive\source\repos\1208ClaseTeorica\obj\Debug\1208ClaseTeorica.csproj.AssemblyReference.cache
+C:\Users\olive\source\repos\1208ClaseTeorica\obj\Debug\1208ClaseTeorica.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\1208ClaseTeorica\obj\Debug\1208ClaseTeorica.exe
+C:\Users\olive\source\repos\1208ClaseTeorica\obj\Debug\1208ClaseTeorica.pdb
